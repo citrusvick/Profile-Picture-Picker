@@ -1,1 +1,1 @@
-# Profile-Picture-Picker
+This code is to be used for my group's app later when we implement a profile picture option. The code defines a PhotosPicker for selecting images, with an avatarImage state variable to display the selected image. When an image is selected using the PhotosPicker, it updates the avatarImage variable.
